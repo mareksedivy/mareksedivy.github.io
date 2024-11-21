@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Remote Work | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/remote-work/</link>
+      <atom:link href="http://localhost:4321/tags/remote-work/index.xml" rel="self" type="application/rss+xml" />
+    <description>Remote Work</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Remote Work</title>
+      <link>http://localhost:4321/tags/remote-work/</link>
+    </image>
+    
+    <item>
+      <title>How Many of Us Can Work from Home? Evidence for the Czech Republic</title>
+      <link>http://localhost:4321/research/politicka-ekonomie/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/politicka-ekonomie/</guid>
+      <description>&lt;p&gt;Bajgar, M., Janský, P., &amp;amp; Šedivý, M. (2021). How Many of Us Can Work from Home? Evidence for the Czech Republic. Politická ekonomie, 69(5), 555-570. doi: 10.18267/j.polek.1329&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

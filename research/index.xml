@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/research/</link>
+      <atom:link href="http://localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Researches</title>
+      <link>http://localhost:4321/research/</link>
+    </image>
+    
+    <item>
+      <title>How do regional price levels affect income inequality? Household-level evidence from countries worldwide</title>
+      <link>http://localhost:4321/research/annals-of-regional-science/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/annals-of-regional-science/</guid>
+      <description>&lt;p&gt;Šedivý, M., &amp;amp; Janský, P. (2024). How do regional price levels affect income inequality? Household-level evidence from countries worldwide. Forthcoming in The Annals of Regional Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mortality shocks and household consumption: the case of Mexico</title>
+      <link>http://localhost:4321/research/review-of-economics-of-the-household/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/review-of-economics-of-the-household/</guid>
+      <description>&lt;p&gt;Šedivý, M. (2023). Mortality shocks and household consumption: the case of Mexico. Review of Economics of the Household, 21(4), 1289-1358.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Many of Us Can Work from Home? Evidence for the Czech Republic</title>
+      <link>http://localhost:4321/research/politicka-ekonomie/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/politicka-ekonomie/</guid>
+      <description>&lt;p&gt;Bajgar, M., Janský, P., &amp;amp; Šedivý, M. (2021). How Many of Us Can Work from Home? Evidence for the Czech Republic. Politická ekonomie, 69(5), 555-570. doi: 10.18267/j.polek.1329&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating the revenue costs of tax treaties in developing countries</title>
+      <link>http://localhost:4321/research/world-economy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/world-economy/</guid>
+      <description>&lt;p&gt;Janský, P., &amp;amp; Šedivý, M. (2019). Estimating the revenue costs of tax treaties in developing countries. The World Economy, 42(6), 1828-1849.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
