@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sharing Rule | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/sharing-rule/</link>
+      <atom:link href="http://localhost:4321/tags/sharing-rule/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sharing Rule</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Sharing Rule</title>
+      <link>http://localhost:4321/tags/sharing-rule/</link>
+    </image>
+    
+    <item>
+      <title>Intrahousehold Consumption Inequality over 24 Years: Evidence from Czechia</title>
+      <link>http://localhost:4321/workinprogress/intra-household_inequality-czechia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/workinprogress/intra-household_inequality-czechia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

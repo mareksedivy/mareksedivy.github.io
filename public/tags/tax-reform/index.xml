@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tax Reform | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/tags/tax-reform/</link>
+      <atom:link href="http://localhost:4321/tags/tax-reform/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tax Reform</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <title>Tax Reform</title>
+      <link>http://localhost:4321/tags/tax-reform/</link>
+    </image>
+    
+    <item>
+      <title>Impact of Tax Reform on Corporate Behavior</title>
+      <link>http://localhost:4321/research/working-paper-1/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/working-paper-1/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In this study, we analyze the impact of recent tax reforms on corporate behavior. We use panel data from over 1,000 firms to assess changes in investment, employment, and tax avoidance. The findings suggest that tax cuts led to a short-term increase in investment, but also heightened tax avoidance practices among multinational companies.&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;Doe, J., &amp;amp; Smith, J. (2024). Impact of Tax Reform on Corporate Behavior. &lt;em&gt;Journal of Economic Studies&lt;/em&gt;, 45(2), 123-145. &lt;a href=&#34;https://doi.org/10.1007/s00148-024-09752&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s00148-024-09752&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

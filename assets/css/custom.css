@@ -1,0 +1,8 @@
+/* Adjust avatar size */
+img.avatar {
+    width: 142px;  /* Change this value to increase/decrease size */
+    height: 142px;  /* Make sure the height matches the width to keep it square */
+    border-radius: 0;  /* Make the image round */
+    object-fit: cover;  /* Ensure the image maintains its aspect ratio and is cropped if needed */
+    margin-right: 20px;  /* Optional: add space between the avatar and bio text */
+}
