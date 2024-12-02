@@ -6,7 +6,7 @@ profiles:
   label: E-mail Me
   url: mailto:marek.sedivy@fsv.cuni.cz
 - icon: brands/linkedin
-  url: https://www.linkedin.com/
+  url: https://www.linkedin.com/in/marek-%C5%A1ediv%C3%BD-1585172a5/
 - icon: academicons/orcid
   url: https://orcid.org/0000-0003-0583-6985
 ---

@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Journal Article | Hugo Academic CV Theme</title>
+    <title>Journal Article | Marek Šedivý</title>
     <link>http://localhost:4321/publication_types/journal-article/</link>
       <atom:link href="http://localhost:4321/publication_types/journal-article/index.xml" rel="self" type="application/rss+xml" />
     <description>Journal Article</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
       <title>Journal Article</title>
       <link>http://localhost:4321/publication_types/journal-article/</link>
     </image>
+    
+    <item>
+      <title>Intrahousehold Consumption Inequality over 24 Years: Evidence from Czechia</title>
+      <link>http://localhost:4321/workinprogress/intra-household_inequality-czechia/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/workinprogress/intra-household_inequality-czechia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consumption Inequality in a Transition Economy</title>
+      <link>http://localhost:4321/workinprogress/consumption-inequality-in-a-transition-economy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/workinprogress/consumption-inequality-in-a-transition-economy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How do regional price levels affect income inequality? Household-level evidence from countries worldwide</title>
