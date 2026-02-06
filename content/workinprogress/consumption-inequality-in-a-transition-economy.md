@@ -3,7 +3,7 @@ title: "Life-cycle Consumption Expenditure and Inequality"
 date: "2025-02-06"
 authors: ["Marek Šedivý"]
 publication_types: ["Journal Article"]
-publication: "Draft available"
+publication: "IES Working Papers 25/2025"
 pages: ""
 doi: ""
 summary: ""
@@ -15,4 +15,4 @@ url_pdf: "/workinprogress/life-cycle-consumption-expenditure-and-inequality.pdf"
 featured: false
 ---
 
-
+Šedivý M. (2025): Life-cycle Consumption Expenditure and Inequality. IES Working Papers 25/2025. IES FSV. Charles University.

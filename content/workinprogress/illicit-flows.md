@@ -3,7 +3,7 @@ title: "Illicit financial flows and country-by-country reporting in extractive i
 date: "2022-01-01"
 authors: ["Saila Stausholm", "Petr Janský", "Marek Šedivý"]
 publication_types: ["Journal Article"]
-publication: "WIDER Working Paper, No. 2022/76, R&R in Review of International Political Economy"
+publication: "WIDER Working Paper, No. 2022/76, R&R in Critical Perspectives on Accounting"
 pages: ""
 doi: "10.35188/UNU-WIDER/2022/207-2"
 summary: ""

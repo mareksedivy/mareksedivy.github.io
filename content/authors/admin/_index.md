@@ -1,10 +1,10 @@
-﻿---
+---
 first_name: Marek
 last_name: Sedivy
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:marek.sedivy@fsv.cuni.cz
+  url: mailto:sedivy.mara@gmail.com
 - icon: brands/linkedin
   url: https://www.linkedin.com/in/marek-%C5%A1ediv%C3%BD-1585172a5/
 - icon: academicons/orcid
@@ -12,7 +12,6 @@ profiles:
 ---
 
 
-I am a PhD candidate at the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en). I focus on inequality, household economics, and public economics. I currently work on projects that study the long-run evolution of consumption inequality between and within households.
+I am a postdoc in the [CORPTAX](https://centreforpublicfinance.eu/) research group. In my research, I focus on inequality, household economics, and public economics.  I currently work on projects that study the long-run evolution of consumption inequality between and within households, regional price levels, and corporate tax avoidance. 
 
-I am also part of the [CORPTAX](https://corptax.cuni.cz/) research group, in which I contribute to research on the effects of corporate tax avoidance on inequality, and the [Public Finance Center](https://centrumverejnychfinanci.cz/), in which I contribute to the analysis of the VAT.
-
+I have obtained my Ph.D. from the [Institute of Economic Studies, Charles University](https://ies.fsv.cuni.cz/en).
