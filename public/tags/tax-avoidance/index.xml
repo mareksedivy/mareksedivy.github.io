@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tax Avoidance | Marek Šedivý</title>
-    <link>http://localhost:4321/tags/tax-avoidance/</link>
-      <atom:link href="http://localhost:4321/tags/tax-avoidance/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mareksedivy.github.io/tags/tax-avoidance/</link>
+      <atom:link href="https://mareksedivy.github.io/tags/tax-avoidance/index.xml" rel="self" type="application/rss+xml" />
     <description>Tax Avoidance</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <url>https://mareksedivy.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Tax Avoidance</title>
-      <link>http://localhost:4321/tags/tax-avoidance/</link>
+      <link>https://mareksedivy.github.io/tags/tax-avoidance/</link>
     </image>
     
     <item>
       <title>Illicit financial flows and country-by-country reporting in extractive industries</title>
-      <link>http://localhost:4321/workinprogress/illicit-flows/</link>
+      <link>https://mareksedivy.github.io/workinprogress/illicit-flows/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/workinprogress/illicit-flows/</guid>
+      <guid>https://mareksedivy.github.io/workinprogress/illicit-flows/</guid>
       <description>&lt;p&gt;Stausholm, S. , Janský, P. , Šedivý, M. (2022) Illicit financial flows and country-by-country reporting in extractive industries. WIDER Working Paper 2022/76. Helsinki: UNU-WIDER. &lt;a href=&#34;https://doi.org/10.35188/UNU-WIDER/2022/207-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.35188/UNU-WIDER/2022/207-2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

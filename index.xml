@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marek Šedivý</title>
-    <link>http://localhost:4321/</link>
-      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mareksedivy.github.io/</link>
+      <atom:link href="https://mareksedivy.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Marek Šedivý</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <url>https://mareksedivy.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Marek Šedivý</title>
-      <link>http://localhost:4321/</link>
+      <link>https://mareksedivy.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:4321/event/example/</link>
+      <link>https://mareksedivy.github.io/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/event/example/</guid>
+      <guid>https://mareksedivy.github.io/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -35,42 +35,44 @@
     
     <item>
       <title>Intrahousehold Consumption Inequality over 24 Years: Evidence from Czechia</title>
-      <link>http://localhost:4321/workinprogress/intra-household_inequality-czechia/</link>
+      <link>https://mareksedivy.github.io/workinprogress/intra-household_inequality-czechia/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/workinprogress/intra-household_inequality-czechia/</guid>
-      <description></description>
+      <guid>https://mareksedivy.github.io/workinprogress/intra-household_inequality-czechia/</guid>
+      <description>&lt;p&gt;Šedivý M. (2025): Intrahousehold Consumption Inequality over 24 Years: Evidence from Czechia. IES Working Papers 24/2025. IES FSV. Charles University.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Life-cycle Consumption Expenditure and Inequality</title>
-      <link>http://localhost:4321/workinprogress/consumption-inequality-in-a-transition-economy/</link>
+      <link>https://mareksedivy.github.io/workinprogress/consumption-inequality-in-a-transition-economy/</link>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/workinprogress/consumption-inequality-in-a-transition-economy/</guid>
-      <description></description>
+      <guid>https://mareksedivy.github.io/workinprogress/consumption-inequality-in-a-transition-economy/</guid>
+      <description>&lt;p&gt;Šedivý M. (2025): Life-cycle Consumption Expenditure and Inequality. IES Working Papers 25/2025. IES FSV. Charles University.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:4321/projects/</link>
+      <link>https://mareksedivy.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/projects/</guid>
+      <guid>https://mareksedivy.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How do regional price levels affect income inequality? Household-level evidence from countries worldwide</title>
-      <link>http://localhost:4321/research/annals-of-regional-science/</link>
+      <link>https://mareksedivy.github.io/research/annals-of-regional-science/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/annals-of-regional-science/</guid>
-      <description>&lt;p&gt;Šedivý, M., &amp;amp; Janský, P. (2024). How do regional price levels affect income inequality? Household-level evidence from countries worldwide. Forthcoming in The Annals of Regional Science.&lt;/p&gt;
+      <guid>https://mareksedivy.github.io/research/annals-of-regional-science/</guid>
+      <description>&lt;p&gt;Šedivý, M., &amp;amp; Janský, P. (2025). How do regional price levels affect income inequality? Household-level evidence from countries worldwide. The Annals of Regional Science, 74(1), 1-63.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>http://localhost:4321/post/get-started/</link>
+      <link>https://mareksedivy.github.io/post/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/get-started/</guid>
+      <guid>https://mareksedivy.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -154,33 +156,33 @@
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:4321/project/pandas/</link>
+      <link>https://mareksedivy.github.io/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pandas/</guid>
+      <guid>https://mareksedivy.github.io/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:4321/project/pytorch/</link>
+      <link>https://mareksedivy.github.io/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/pytorch/</guid>
+      <guid>https://mareksedivy.github.io/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:4321/project/scikit/</link>
+      <link>https://mareksedivy.github.io/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/project/scikit/</guid>
+      <guid>https://mareksedivy.github.io/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>http://localhost:4321/post/second-brain/</link>
+      <link>https://mareksedivy.github.io/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/second-brain/</guid>
+      <guid>https://mareksedivy.github.io/post/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -290,9 +292,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>http://localhost:4321/post/data-visualization/</link>
+      <link>https://mareksedivy.github.io/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/data-visualization/</guid>
+      <guid>https://mareksedivy.github.io/post/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -303,7 +305,7 @@
 
 
 
-&lt;div id=&#34;chart-142639587&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-785463912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -321,7 +323,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-142639587&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-785463912&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -500,9 +502,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:4321/post/teach-courses/</link>
+      <link>https://mareksedivy.github.io/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/teach-courses/</guid>
+      <guid>https://mareksedivy.github.io/post/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -555,7 +557,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:4321/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://mareksedivy.github.io/post/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -614,41 +616,41 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/cv/</link>
+      <link>https://mareksedivy.github.io/cv/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/cv/</guid>
+      <guid>https://mareksedivy.github.io/cv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/experience/</link>
+      <link>https://mareksedivy.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/experience/</guid>
+      <guid>https://mareksedivy.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/policy_analysis/</link>
+      <link>https://mareksedivy.github.io/policy_analysis/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/policy_analysis/</guid>
+      <guid>https://mareksedivy.github.io/policy_analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:4321/research/</link>
+      <link>https://mareksedivy.github.io/research/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/</guid>
+      <guid>https://mareksedivy.github.io/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:4321/post/project-management/</link>
+      <link>https://mareksedivy.github.io/post/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/post/project-management/</guid>
+      <guid>https://mareksedivy.github.io/post/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -721,45 +723,45 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Who is Most Affected by Price Increases? Differences in Inflation for Different Types of Household, 2020-2023</title>
-      <link>http://localhost:4321/policyanalysis/inflace/</link>
+      <link>https://mareksedivy.github.io/policyanalysis/inflace/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/policyanalysis/inflace/</guid>
+      <guid>https://mareksedivy.github.io/policyanalysis/inflace/</guid>
       <description>&lt;p&gt;Janský, P., Kolář, D., &amp;amp; Šedivý, M. (2023). Kdo je nejvíce zasažen růstem cen?: rozdíly v inflaci pro různé domácnosti 2020-2023. Národohospodářský ústav AV ČR, vvi.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mortality shocks and household consumption: the case of Mexico</title>
-      <link>http://localhost:4321/research/review-of-economics-of-the-household/</link>
+      <link>https://mareksedivy.github.io/research/review-of-economics-of-the-household/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/review-of-economics-of-the-household/</guid>
+      <guid>https://mareksedivy.github.io/research/review-of-economics-of-the-household/</guid>
       <description>&lt;p&gt;Šedivý, M. (2023). Mortality shocks and household consumption: the case of Mexico. Review of Economics of the Household, 21(4), 1289-1358.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Illicit financial flows and country-by-country reporting in extractive industries</title>
-      <link>http://localhost:4321/workinprogress/illicit-flows/</link>
+      <link>https://mareksedivy.github.io/workinprogress/illicit-flows/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/workinprogress/illicit-flows/</guid>
+      <guid>https://mareksedivy.github.io/workinprogress/illicit-flows/</guid>
       <description>&lt;p&gt;Stausholm, S. , Janský, P. , Šedivý, M. (2022) Illicit financial flows and country-by-country reporting in extractive industries. WIDER Working Paper 2022/76. Helsinki: UNU-WIDER. &lt;a href=&#34;https://doi.org/10.35188/UNU-WIDER/2022/207-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.35188/UNU-WIDER/2022/207-2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>How Many of Us Can Work from Home? Evidence for the Czech Republic</title>
-      <link>http://localhost:4321/research/politicka-ekonomie/</link>
+      <link>https://mareksedivy.github.io/research/politicka-ekonomie/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/politicka-ekonomie/</guid>
+      <guid>https://mareksedivy.github.io/research/politicka-ekonomie/</guid>
       <description>&lt;p&gt;Bajgar, M., Janský, P., &amp;amp; Šedivý, M. (2021). How Many of Us Can Work from Home? Evidence for the Czech Republic. Politická ekonomie, 69(5), 555-570. doi: 10.18267/j.polek.1329&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://localhost:4321/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://mareksedivy.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://localhost:4321/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://mareksedivy.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -790,7 +792,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;http://localhost:4321/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://mareksedivy.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -798,19 +800,19 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>How many of us can work from home?</title>
-      <link>http://localhost:4321/policyanalysis/telework/</link>
+      <link>https://mareksedivy.github.io/policyanalysis/telework/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/policyanalysis/telework/</guid>
+      <guid>https://mareksedivy.github.io/policyanalysis/telework/</guid>
       <description>&lt;p&gt;Bajgar, M., Janský, P., &amp;amp; Šedivý, M. (2020). Kolik nás může pracovat z domova?. Národohospodářský ústav AV ČR, vvi.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:4321/publication/preprint/</link>
+      <link>https://mareksedivy.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:4321/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://mareksedivy.github.io/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://mareksedivy.github.io/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -823,18 +825,18 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Estimating the revenue costs of tax treaties in developing countries</title>
-      <link>http://localhost:4321/research/world-economy/</link>
+      <link>https://mareksedivy.github.io/research/world-economy/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/world-economy/</guid>
+      <guid>https://mareksedivy.github.io/research/world-economy/</guid>
       <description>&lt;p&gt;Janský, P., &amp;amp; Šedivý, M. (2019). Estimating the revenue costs of tax treaties in developing countries. The World Economy, 42(6), 1828-1849.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>http://localhost:4321/post/2016-12-30-hello-markdown/</link>
+      <link>https://mareksedivy.github.io/post/2016-12-30-hello-markdown/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      <guid>http://localhost:4321/post/2016-12-30-hello-markdown/</guid>
+      <guid>https://mareksedivy.github.io/post/2016-12-30-hello-markdown/</guid>
       <description>&lt;p&gt;This is a post written in plain Markdown (&lt;code&gt;*.md&lt;/code&gt;) instead of R Markdown (&lt;code&gt;*.Rmd&lt;/code&gt;). The major differences are:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (&lt;code&gt;```{r}&lt;/code&gt;);&lt;/li&gt;
@@ -855,18 +857,18 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>About</title>
-      <link>http://localhost:4321/about/</link>
+      <link>https://mareksedivy.github.io/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      <guid>http://localhost:4321/about/</guid>
+      <guid>https://mareksedivy.github.io/about/</guid>
       <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:4321/publication/journal-article/</link>
+      <link>https://mareksedivy.github.io/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/journal-article/</guid>
+      <guid>https://mareksedivy.github.io/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -885,18 +887,18 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>http://localhost:4321/post/2015-01-01-lorem-ipsum/</link>
+      <link>https://mareksedivy.github.io/post/2015-01-01-lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      <guid>http://localhost:4321/post/2015-01-01-lorem-ipsum/</guid>
+      <guid>https://mareksedivy.github.io/post/2015-01-01-lorem-ipsum/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore &lt;em&gt;magna aliqua&lt;/em&gt;. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:4321/publication/conference-paper/</link>
+      <link>https://mareksedivy.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publication/conference-paper/</guid>
+      <guid>https://mareksedivy.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

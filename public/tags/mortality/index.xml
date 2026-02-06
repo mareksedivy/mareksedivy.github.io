@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mortality | Marek Šedivý</title>
-    <link>http://localhost:4321/tags/mortality/</link>
-      <atom:link href="http://localhost:4321/tags/mortality/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mareksedivy.github.io/tags/mortality/</link>
+      <atom:link href="https://mareksedivy.github.io/tags/mortality/index.xml" rel="self" type="application/rss+xml" />
     <description>Mortality</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:4321/media/icon_hu7729264130191091259.png</url>
+      <url>https://mareksedivy.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Mortality</title>
-      <link>http://localhost:4321/tags/mortality/</link>
+      <link>https://mareksedivy.github.io/tags/mortality/</link>
     </image>
     
     <item>
       <title>Mortality shocks and household consumption: the case of Mexico</title>
-      <link>http://localhost:4321/research/review-of-economics-of-the-household/</link>
+      <link>https://mareksedivy.github.io/research/review-of-economics-of-the-household/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/research/review-of-economics-of-the-household/</guid>
+      <guid>https://mareksedivy.github.io/research/review-of-economics-of-the-household/</guid>
       <description>&lt;p&gt;Šedivý, M. (2023). Mortality shocks and household consumption: the case of Mexico. Review of Economics of the Household, 21(4), 1289-1358.&lt;/p&gt;
 </description>
     </item>
