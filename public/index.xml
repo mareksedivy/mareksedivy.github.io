@@ -34,6 +34,15 @@
     </item>
     
     <item>
+      <title>Linked opacities: how fragmented transparency regimes undermine accountability in the extractive sector</title>
+      <link>https://mareksedivy.github.io/research/critical-perspectives-on-accounting/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mareksedivy.github.io/research/critical-perspectives-on-accounting/</guid>
+      <description>&lt;p&gt;Stausholm, S., Janský, P., &amp;amp; Šedivý, M. (2026). Linked opacities: how fragmented transparency regimes undermine accountability in the extractive sector. Critical Perspectives on Accounting, 104, 102875.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Intrahousehold Consumption Inequality over 24 Years: Evidence from Czechia</title>
       <link>https://mareksedivy.github.io/workinprogress/intra-household_inequality-czechia/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
@@ -52,20 +61,20 @@
     </item>
     
     <item>
+      <title>How do regional price levels affect income inequality? Household-level evidence from countries worldwide</title>
+      <link>https://mareksedivy.github.io/research/annals-of-regional-science/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mareksedivy.github.io/research/annals-of-regional-science/</guid>
+      <description>&lt;p&gt;Šedivý, M., &amp;amp; Janský, P. (2025). How do regional price levels affect income inequality? Household-level evidence from countries worldwide. The Annals of Regional Science, 74(1), 1-63.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://mareksedivy.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>https://mareksedivy.github.io/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>How do regional price levels affect income inequality? Household-level evidence from countries worldwide</title>
-      <link>https://mareksedivy.github.io/research/annals-of-regional-science/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://mareksedivy.github.io/research/annals-of-regional-science/</guid>
-      <description>&lt;p&gt;Šedivý, M., &amp;amp; Janský, P. (2025). How do regional price levels affect income inequality? Household-level evidence from countries worldwide. The Annals of Regional Science, 74(1), 1-63.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -305,7 +314,7 @@
 
 
 
-&lt;div id=&#34;chart-785463912&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-415792836&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -323,7 +332,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-785463912&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-415792836&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -736,15 +745,6 @@ Parallel 4   :         des6, after des4, 1d
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://mareksedivy.github.io/research/review-of-economics-of-the-household/</guid>
       <description>&lt;p&gt;Šedivý, M. (2023). Mortality shocks and household consumption: the case of Mexico. Review of Economics of the Household, 21(4), 1289-1358.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Illicit financial flows and country-by-country reporting in extractive industries</title>
-      <link>https://mareksedivy.github.io/workinprogress/illicit-flows/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://mareksedivy.github.io/workinprogress/illicit-flows/</guid>
-      <description>&lt;p&gt;Stausholm, S. , Janský, P. , Šedivý, M. (2022) Illicit financial flows and country-by-country reporting in extractive industries. WIDER Working Paper 2022/76. Helsinki: UNU-WIDER. &lt;a href=&#34;https://doi.org/10.35188/UNU-WIDER/2022/207-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.35188/UNU-WIDER/2022/207-2&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
