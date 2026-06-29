@@ -1,6 +1,6 @@
 ---
 title: "How do regional price levels affect income inequality? Household-level evidence from countries worldwide"
-date: "2024-01-01"
+date: "2025-01-01"
 authors: ["Marek Šedivý", "Petr Janský"]
 publication_types: ["Journal Article"]
 publication: "The Annals of Regional Science, 74(1)"
