@@ -5,12 +5,30 @@
     <link>https://mareksedivy.github.io/policyanalysis/</link>
       <atom:link href="https://mareksedivy.github.io/policyanalysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Policyanalyses</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mareksedivy.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Policyanalyses</title>
       <link>https://mareksedivy.github.io/policyanalysis/</link>
     </image>
+    
+    <item>
+      <title>Assessment of the Tax Implications of Electronic Cash Registers</title>
+      <link>https://mareksedivy.github.io/policyanalysis/eet/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mareksedivy.github.io/policyanalysis/eet/</guid>
+      <description>&lt;p&gt;Bajgar, M., Janský, P., Sůva, D., Šedivý, M., Škultéty, O. &amp;amp; Šoltés M. (2026). Vyhodnocení daňových dopadů elektronické evidence tržeb. Centrum veřejných financí.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VAT Changes: Impacts on Households and Public Budgets</title>
+      <link>https://mareksedivy.github.io/policyanalysis/dph/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mareksedivy.github.io/policyanalysis/dph/</guid>
+      <description>&lt;p&gt;Šedivý, M. &amp;amp; Zindulková K. (2025). Změny DPH: dopady na domácnosti a veřejné rozpočty. Centrum veřejných financí.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Who is Most Affected by Price Increases? Differences in Inflation for Different Types of Household, 2020-2023</title>
