@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VAT | Marek Šedivý</title>
+    <link>https://mareksedivy.github.io/tags/vat/</link>
+      <atom:link href="https://mareksedivy.github.io/tags/vat/index.xml" rel="self" type="application/rss+xml" />
+    <description>VAT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mareksedivy.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>VAT</title>
+      <link>https://mareksedivy.github.io/tags/vat/</link>
+    </image>
+    
+    <item>
+      <title>VAT Changes: Impacts on Households and Public Budgets</title>
+      <link>https://mareksedivy.github.io/policyanalysis/dph/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://mareksedivy.github.io/policyanalysis/dph/</guid>
+      <description>&lt;p&gt;Šedivý, M. &amp;amp; Zindulková K. (2025). Změny DPH: dopady na domácnosti a veřejné rozpočty. Centrum veřejných financí.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
