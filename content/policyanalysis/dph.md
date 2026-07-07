@@ -9,7 +9,7 @@ doi: ""
 summary: ""
 abstract: |
   We analyze the effects of Czech VAT reforms and model alternative scenarios. Additionally, we focus on studying the heterogeneity in the incidence of the reform.
-tags: []
+tags: ["VAT", "VAT reform"]
 categories: ["Journal Article"]
 url_pdf: "/policyanalysis/dph.pdf"
 featured: false

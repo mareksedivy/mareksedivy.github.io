@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronic Cash Registers | Marek Šedivý</title>
+    <link>https://mareksedivy.github.io/tags/electronic-cash-registers/</link>
+      <atom:link href="https://mareksedivy.github.io/tags/electronic-cash-registers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Electronic Cash Registers</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mareksedivy.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Electronic Cash Registers</title>
+      <link>https://mareksedivy.github.io/tags/electronic-cash-registers/</link>
+    </image>
+    
+    <item>
+      <title>Assessment of the Tax Implications of Electronic Cash Registers</title>
+      <link>https://mareksedivy.github.io/policyanalysis/eet/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mareksedivy.github.io/policyanalysis/eet/</guid>
+      <description>&lt;p&gt;Bajgar, M., Janský, P., Sůva, D., Šedivý, M., Škultéty, O. &amp;amp; Šoltés M. (2026). Vyhodnocení daňových dopadů elektronické evidence tržeb. Centrum veřejných financí.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
